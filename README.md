@@ -1,10 +1,7 @@
-# GIN-Admin-Frontend
+# Mjwallet-Admin-Frontend
 
-> GIN-Admin-Frontend is a frontend project for [gin-admin](https://github.com/LyricTian/gin-admin) base on Ant Design React.
+> Mjwallet-Admin-Frontend a frontend project based on [gin-admin-frontend](https://github.com/LyricTian/gin-admin-frontend).
 
-![gin-admin-frontend](./demo.png)
-
-- [Preview](http://101.42.232.163:8040)
   - Username: admin
   - Password: abc-123
 
