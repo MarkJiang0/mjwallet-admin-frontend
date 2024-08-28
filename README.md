@@ -31,7 +31,7 @@
 ### Clone project
 
 ```bash
-git clone https://github.com/gin-admin/gin-admin-frontend.git
+git clone https://github.com/MarkJiang0/mjwallet-admin-frontend.git
 ```
 
 ### Install dependencies
